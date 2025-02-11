@@ -13,7 +13,6 @@ A multiplayer endless runner game featuring a **local player on the right side**
 - [Game Flow & Interaction](#game-flow--interaction)
 - [Debugging & Network Efficiency](#debugging--network-efficiency)
 - [Installation & Running](#installation--running)
-- [Future Improvements](#future-improvements)
 
 ---
 

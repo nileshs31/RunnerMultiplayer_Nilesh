@@ -116,12 +116,12 @@ public void MoveRemotePlayerClientRpc(int newLane, bool jump)
 ## **Debugging & Network Efficiency**
 
 📌 The game logs RPC calls and network usage:
-
+```csharp
 - [Local] Sent RPC: Move to Lane 2, Position: (-1.5, 0, 10), Data Sent: 4 bytes
 - [Remote] Player moved to Lane 2, Position: (-15.5, 0, 10), Data Sent: 4 bytes
 - [Local] Sent RPC: Jump, Data Sent: 1 byte
 - [Remote] Player Jumped, Data Sent: 1 byte
-
+```
 - Tracks real-time network performance.
 - Helps compare optimized vs unoptimized networking.
 
